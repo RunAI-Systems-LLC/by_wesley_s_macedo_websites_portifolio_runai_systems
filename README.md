@@ -1,10 +1,11 @@
-**RunAI Systems LLC | Wesley de Souza Macedo**
+**RunAI Systems LLC | Wesley de Souza Macedo**              
 idWxM - BORN TO DISRUPT THE FUTURE
 
 Presents:
 RunAI Systems LLC
 vNEXX-VENNON DISRUPT 
-Account priority: idWxM Founder and owner: Wesley de Souza Macedo                         
+Account priority:idWxM 
+Founder and owner: Wesley de Souza Macedo                         
 Palo Alto USA | Dublin IR | São Paulo BR | Shenzhen | Anapolis BR
 
 ENGLISH VERSION
