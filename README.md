@@ -1,4 +1,4 @@
-**RUNAI SYSTEMS LLC | Wesley de Souza Macedo**
+**RunAI Systems LLC | Wesley de Souza Macedo**
 idWxM - BORN TO DISRUPT THE FUTURE
 
 Presents:
@@ -63,7 +63,7 @@ Evidence and Registry Context — JSON Reference
 
 PORTUGUESE VERSION
 
-RUNAI SYSTEMS LLC | Wesley de Souza Macedo
+RunAI Systems LLC | Wesley de Souza Macedo
 idWxM - BORN TO DISRUPT THE FUTURE
 
 RunAI Systems LLC é a entidade corporativa responsável pela direção estratégica, arquitetura tecnológica, 
