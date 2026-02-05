@@ -2,10 +2,10 @@
 idWxM - BORN TO DISRUPT THE FUTURE
 
 Presents:
-
+RunAI Systems LLC
 vNEXX-VENNON DISRUPT 
-Account priority: idWxM Name and owner: Wesley de Souza Macedo 
-Palo Alto USA | Dublin IR | São Paulo BR | Anapolis BR
+Account priority: idWxM Founder and owner: Wesley de Souza Macedo                         
+Palo Alto USA | Dublin IR | São Paulo BR | Shenzhen | Anapolis BR
 
 ENGLISH VERSION
 
@@ -60,6 +60,8 @@ Evidence and Registry Context — JSON Reference
 “Authenticity validation, tamper-proofing, forensic evidence continuity” }, “independence_statement”: 
 { “not_affiliated_with”: “RUAI:AI / NVIDIA or any third-party entity of similar naming”, “meaning”: 
 “No partnership, contract, technology integration or institutional relationship” } }
+
+_____________________________________________
 
 PORTUGUESE VERSION
 
@@ -131,7 +133,7 @@ rastreabilidade e preservação probatória
 }
 
 2.
-              {
+{
     "@context": "https:\/\/w3id.org\/openbadges\/v2",
     "type": "Assertion",
     "id": "https:\/\/avctoris.com\/api\/assertions\/f001724a65e4c70dacaa4ebd6818bd5fdf6373afa28e946cc22b23eea1f0eed3",
