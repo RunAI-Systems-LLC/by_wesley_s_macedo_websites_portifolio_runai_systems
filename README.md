@@ -485,6 +485,28 @@ rastreabilidade e preservação probatória
     ]
 }
 
+LICENSE / LICENÇA
 
+EN — PROPRIETARY LICENSE
 
+This software, its architecture, documentation, concepts, naming structures, strategic methods, security models, Zero-Trust-inspired approaches, and any derivative intellectual assets are proprietary developments owned by RunAI Systems LLC (Delaware, United States) and associated initiatives led by Wesley de Souza Macedo.
 
+No rights of ownership, use, distribution, sublicensing, modification, or transfer are granted to any third party unless explicitly authorized in writing by RunAI Systems LLC.
+
+⸻
+
+PT-BR — LICENÇA PROPRIETÁRIA
+
+Este software, sua arquitetura, documentação, conceitos, estruturas de nomenclatura, métodos estratégicos, modelos de segurança, abordagens inspiradas em Zero Trust e quaisquer ativos intelectuais derivados são desenvolvimentos proprietários de titularidade da RunAI Systems LLC (Delaware, Estados Unidos), vinculados a iniciativas conduzidas por Wesley de Souza Macedo.
+
+Nenhum direito de uso, distribuição, modificação, sublicenciamento ou transferência é concedido a terceiros sem autorização formal e expressa por escrito da RunAI Systems LLC.
+
+⸻
+
+Registry & Proof Context
+
+Projects and assets are registered via Avctoris and INPI (Brazil).
+International protection pathways remain available in accordance with applicable treaties and jurisdictional rules.
+
+For licensing, partnerships, or institutional inquiries:
+contact@runaisystems.com
