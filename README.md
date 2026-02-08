@@ -514,4 +514,7 @@ Projects and assets are registered via Avctoris and INPI (Brazil).
 International protection pathways remain available in accordance with applicable treaties and jurisdictional rules.
 
 For licensing, partnerships, or institutional inquiries:
-contact@runaisystems.com
+wesleysmacedo@runaisystems.com
+sign@vnexx.io
+
+Inspired by KAUE | KAUAI| LIZ
