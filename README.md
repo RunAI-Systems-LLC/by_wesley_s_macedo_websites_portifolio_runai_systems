@@ -1,4 +1,5 @@
-**RunAI Systems LLC | Wesley de Souza Macedo**              
+***RunAI Systems LLC***
+Wesley de Souza Macedo**              
 idWxM - BORN TO DISRUPT THE FUTURE
 
 Presents:
@@ -517,4 +518,4 @@ For licensing, partnerships, or institutional inquiries:
 wesleysmacedo@runaisystems.com
 sign@vnexx.io
 
-Inspired by KAUE | KAUAI| LIZ
+Inspired by KAUE | KAUAI | LIZ
