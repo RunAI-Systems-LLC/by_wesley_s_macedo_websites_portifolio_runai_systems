@@ -1,6 +1,6 @@
-***RunAI Systems LLC***
-Wesley de Souza Macedo**              
-idWxM - BORN TO DISRUPT THE FUTURE
+### RunAI Systems LLC 
+## Wesley de Souza Macedo
+# idWxM - BORN TO DISRUPT FUTURE             
 
 Presents:
 RunAI Systems LLC
@@ -505,7 +505,8 @@ PT-BR — LICENÇA PROPRIETÁRIA
 
 Este software, sua arquitetura, documentação, conceitos, estruturas de nomenclatura, métodos estratégicos, modelos de segurança, abordagens inspiradas em Zero Trust e quaisquer ativos intelectuais derivados são desenvolvimentos proprietários de titularidade da RunAI Systems LLC (Delaware, Estados Unidos), vinculados a iniciativas conduzidas por Wesley de Souza Macedo.
 
-Nenhum direito de uso, distribuição, modificação, sublicenciamento ou transferência é concedido a terceiros sem autorização formal e expressa por escrito da RunAI Systems LLC.
+Nenhum direito de uso, distribuição, modificação, sublicenciamento ou transferência é concedido a terceiros sem autorização formal e expressa por escrito da 
+RunAI Systems LLC.
 
 ⸻
 
